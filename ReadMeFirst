@@ -1,0 +1,5 @@
+- Business App implementing multi functions such as chat like WECN, WeChat.
+
+ Used socket communication to implement p2p chat, voice message and image message thanks to several React Native Modules.
+
+ Please enjoy.
